@@ -81,7 +81,10 @@ The wifi name:
 
 <img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare1.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare2.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare3.jpg" width="300">
 <img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare4.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare5.jpg" width="300"><img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare6.jpg" width="300">
-<img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare7.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare8.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare9.jpg" width="300">
+
+To see the answers press the secret link on the heart emoticon after the title:
+
+<img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare7.jpg" width="400"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare8.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare9.jpg" width="300">
 ## Buy me a cup of coffee ?
 
 If you like this project and wants to give me a cup of coffee:
