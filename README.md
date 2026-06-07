@@ -11,8 +11,11 @@ The code is designed to make coding fun by giving learners a clear purpose where
 ESP32 Seeed Studio XIAO **ESP32C6** WiFi 6+Bluetooth-compatible Ble 5 Support Zigbee Matter Wireless Development Board
 
 I bought it here: https://www.aliexpress.com/item/1005006946443492.html
+<p align="left">
+<img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/xiao-esp32-c6.png" width="200" alt="esp32c6"/>
+</p>
 
-There is a guide here: https://wiki.seeedstudio.com/xiao_esp32c6_getting_started/''
+There is a guide here: https://wiki.seeedstudio.com/xiao_esp32c6_getting_started/ 
 
 ## How to install/build the code: 
 
@@ -64,6 +67,21 @@ If you want to 3D-print a nice case for the esp32 then have a look at this:
 
 https://makerworld.com/en/models/1723550-seeed-studio-xiao-esp32-c6-snap-fit-wall-mount#profileId-1829704
 
+<img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/case1.jpg" width="200">  <img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/case2.jpg" width="400">
+
+## How it looks
+
+The wifi name:
+
+<img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/connect-to-wifi.png" width="300"> 
+
+<style="text/css">
+.top_aligned_image {vertical-align: top; /* or text-top, I can't remember for sure which works better */}
+</style>
+
+<img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare1.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare2.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare3.jpg" width="300">
+<img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare4.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare5.jpg" width="300"><img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare6.jpg" width="300">
+<img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare7.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare8.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare9.jpg" width="300">
 ## Buy me a cup of coffee ?
 
 If you like this project and wants to give me a cup of coffee:
