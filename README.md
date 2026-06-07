@@ -31,6 +31,10 @@ Search for "esp32 by Espressif Systems" and install it.
 
 <sub>It was in version 3.3.10 when i wrote this code<sub>
 
+Then select the right board: 
+
+<img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/board.png" width="800">
+
 ## Settings
 
 Change the contact info, the secret admin code, and the SSID by altering the .ino file 
