@@ -79,10 +79,6 @@ The wifi name:
 
 <img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/connect-to-wifi.png" width="300"> 
 
-<style="text/css">
-.top_aligned_image {vertical-align: top; /* or text-top, I can't remember for sure which works better */}
-</style>
-
 <img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare1.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare2.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare3.jpg" width="300">
 <img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare4.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare5.jpg" width="300"><img src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare6.jpg" width="300">
 <img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare7.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare8.jpg" width="300"><img align="top" src="https://github.com/keldnorman/ESPressoDate/blob/main/images/dare9.jpg" width="300">
